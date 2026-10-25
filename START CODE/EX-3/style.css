@@ -1,0 +1,20 @@
+/* TODO */
+button{
+    background-color: pink;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    border: 5px solid rgb(235, 135, 152);
+    border-radius: 20px;
+    font-size: 20px;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+button:hover{
+    background-color: rgb(212, 5, 39);
+    border:rgb(137, 0, 23) 5px solid;
+    cursor: pointer;
+    opacity: 0.8;
+}
